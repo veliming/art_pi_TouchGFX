@@ -1,0 +1,81 @@
+################################################################################
+# 自动生成的文件。不要编辑！
+################################################################################
+
+ELF_SRCS := 
+C_UPPER_SRCS := 
+CXX_SRCS := 
+C++_SRCS := 
+OBJ_SRCS := 
+S_SRCS := 
+CC_SRCS := 
+ASM_SRCS := 
+C_SRCS := 
+CPP_SRCS := 
+S_UPPER_SRCS := 
+O_SRCS := 
+CC_DEPS := 
+C++_DEPS := 
+OBJS := 
+C_UPPER_DEPS := 
+CXX_DEPS := 
+SECONDARY_FLASH := 
+SECONDARY_SIZE := 
+ASM_DEPS := 
+S_DEPS := 
+S_UPPER_DEPS := 
+C_DEPS := 
+CPP_DEPS := 
+
+# Every subdirectory with source files must be described here
+SUBDIRS := \
+applications \
+board/CubeMX_Config/Core/Src \
+board \
+board/port \
+libraries/STM32H7xx_HAL/CMSIS/Device/ST/STM32H7xx/Source/Templates/gcc \
+libraries/STM32H7xx_HAL/CMSIS/Device/ST/STM32H7xx/Source/Templates \
+libraries/STM32H7xx_HAL/STM32H7xx_HAL_Driver/Src \
+libraries/drivers \
+libraries/touchgfx_lib/TouchGFX/App \
+libraries/touchgfx_lib/TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src \
+libraries/touchgfx_lib/TouchGFX/build/MINGW32_NT-6.2/generated/gui_generated/src/common \
+libraries/touchgfx_lib/TouchGFX/build/MINGW32_NT-6.2/generated/gui_generated/src/main_screen \
+libraries/touchgfx_lib/TouchGFX/build/MINGW32_NT-6.2/generated/images/src \
+libraries/touchgfx_lib/TouchGFX/build/MINGW32_NT-6.2/generated/images/src/__designer \
+libraries/touchgfx_lib/TouchGFX/build/MINGW32_NT-6.2/generated/simulator/src \
+libraries/touchgfx_lib/TouchGFX/build/MINGW32_NT-6.2/generated/simulator/src/video \
+libraries/touchgfx_lib/TouchGFX/build/MINGW32_NT-6.2/generated/texts/src \
+libraries/touchgfx_lib/TouchGFX/build/MINGW32_NT-6.2/gui/src/common \
+libraries/touchgfx_lib/TouchGFX/build/MINGW32_NT-6.2/gui/src/main_screen \
+libraries/touchgfx_lib/TouchGFX/build/MINGW32_NT-6.2/gui/src/model \
+libraries/touchgfx_lib/TouchGFX/build/MINGW32_NT-6.2/simulator \
+libraries/touchgfx_lib/TouchGFX/build/MINGW32_NT-6.2/touchgfx/framework/source/platform/driver/touch \
+libraries/touchgfx_lib/TouchGFX/build/MINGW32_NT-6.2/touchgfx/framework/source/platform/hal/simulator/sdl2 \
+libraries/touchgfx_lib/TouchGFX/generated/fonts/src \
+libraries/touchgfx_lib/TouchGFX/generated/gui_generated/src/common \
+libraries/touchgfx_lib/TouchGFX/generated/gui_generated/src/main_screen \
+libraries/touchgfx_lib/TouchGFX/generated/images/src \
+libraries/touchgfx_lib/TouchGFX/generated/images/src/__designer \
+libraries/touchgfx_lib/TouchGFX/generated/texts/src \
+libraries/touchgfx_lib/TouchGFX/gui/src/common \
+libraries/touchgfx_lib/TouchGFX/gui/src/main_screen \
+libraries/touchgfx_lib/TouchGFX/gui/src/model \
+libraries/touchgfx_lib/TouchGFX/target \
+libraries/touchgfx_lib/TouchGFX/target/generated \
+packages/gt1151-v1.0.0/src \
+rt-thread/components/cplusplus \
+rt-thread/components/dfs/filesystems/devfs \
+rt-thread/components/dfs/src \
+rt-thread/components/drivers/i2c \
+rt-thread/components/drivers/misc \
+rt-thread/components/drivers/serial \
+rt-thread/components/drivers/spi \
+rt-thread/components/drivers/src \
+rt-thread/components/drivers/touch \
+rt-thread/components/finsh \
+rt-thread/components/libc/compilers/newlib \
+rt-thread/libcpu/arm/common \
+rt-thread/libcpu/arm/cortex-m7 \
+rt-thread/src \
+
